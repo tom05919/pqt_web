@@ -1,0 +1,26 @@
+{
+    "name": "princeton-qt",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "next": "latest",
+      "react": "latest",
+      "react-dom": "latest",
+      "tailwindcss": "latest",
+      "framer-motion": "latest",
+      "react-latex": "latest",
+      "react-chartjs-2": "latest",
+      "chart.js": "latest",
+      "prop-types": "latest"
+    },
+    "devDependencies": {
+      "typescript": "latest",
+      "@types/react": "latest",
+      "@types/node": "latest"
+    }
+  }
